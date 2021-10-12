@@ -237,7 +237,13 @@ const WebDevDatas = [
       image: "../assets/webdev-img/GetWave.png",
       about: "A simple web app to generate svg waves, unique every time",
       alt: "Get Waves",
-  },
+    },
+    {
+        link: "https://www.shapedivider.app/",
+        head: "Get Shapes",
+        image: "https://www.shapedivider.app/img/logo_500x500.18aca7aa.png",
+        alt: "Get shapes"
+  }
 
 ];
 
